@@ -1,0 +1,10 @@
+{
+  "name": "fgi-cron-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches Fear & Greed Index and sends alert if threshold hit",
+  "main": "fetch.js",
+  "scripts": {
+    "start": "node fetch.js"
+  },
+  "dependencies": {}
+}
